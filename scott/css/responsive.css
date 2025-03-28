@@ -1,0 +1,360 @@
+/* For Tablet 992px  */
+@media screen and (max-width:1024px) {
+    .hero .txtbox h1 {
+        font-size: 4.50rem;
+    }
+    .hero .txtbox p {
+        font-size: 16px;
+    }
+    .img1 {
+        transform: translate(-3px, 20px) rotate(-15deg);
+        left: 15%;
+    }
+    .img2 {
+        transform: translate(24px, -4px) rotate(15deg);
+    }
+    .leadership .teambox {
+        margin-top: 5px;
+    }
+    /* .Question .headingbox h4 {
+        font-size: 26px;
+    } */
+    .slick-dotted.slick-slider {
+        margin-bottom: 15px;
+    }
+    .slide1 {
+        padding: 0px 0;
+    }
+    .dontmiss .headingbox h1 {
+        font-size: 7.25rem;
+        top: -111px;
+    }
+    .disi {
+        line-height: 0;
+        margin-bottom: 0;
+    }
+    .our .headingbox h4 {
+        font-size: 45px;
+        transform: translate(1px, -111px);
+    }
+    .showcase .headingbox h4 {
+        font-size: 45px;
+        transform: translate(1px, -111px);
+    }
+    .leadership .headingbox h4 {
+        font-size: 45px;
+        transform: translate(1px, -111px);
+    }
+    .Question .headingbox h4 {
+        font-size: 45px;
+        transform: translate(1px, -111px);
+    }
+    .article .headingbox h4 {
+        font-size: 45px;
+        transform: translate(1px, -111px);
+    }
+    .Question .headingbox h4 {
+        font-size: 45px;
+        left: 14%;
+        right: 14%;
+
+    }
+    .Btnn {
+        padding: 1.125rem 0;
+    }
+
+
+
+    /* collection page 2nd 992px css */
+
+    .photo h4 {
+        font-size: 14px;
+    }
+
+    /* contactpage 3rd 992px css */
+    .dontmiss .headingbox h1 {
+        font-size: 7.25rem;
+        top: -113px;
+    }
+
+
+   
+    
+
+}
+
+
+
+
+/* For i-pad 768px */
+@media screen and (max-width : 991px) {
+    .hero {
+        text-align: center;
+    }
+    .hero .txtbox p {
+        font-size: 1.125rem;
+    }
+    .fimage img {
+        width: 60rem;
+    }
+    .scndtxtbox {
+        margin-top: 3px;
+    }
+    .imgbocx {
+        margin-bottom: 25rem;
+    }
+    .our {
+        text-align: center;
+    }
+    .our .textbox h2 {
+        font-size: 41px;
+    }
+    .our .headingbox h1 {
+        font-size: 6.25rem;
+    }
+    .our .headingbox h4 {
+        font-size: 35px;
+        transform: translate(1px, -90px);
+    }
+    .showcase .headingbox h1 {
+        font-size: 6.25rem;
+    }
+    .showcase .headingbox h4 {
+        font-size: 35px;
+        transform: translate(1px, -90px);
+    }
+    .leadership .headingbox h1 {
+        font-size: 6.25rem;
+    }
+    .leadership .headingbox h4 {
+        font-size: 35px;
+        transform: translate(1px, -90px);
+    }
+    .Question  .headingbox h1 {
+        font-size: 6.25rem;
+    }
+    .Question .headingbox h4 {
+        font-size: 35px;
+        transform: translate(1px, -90px);
+    }
+    .article  .headingbox h1 {
+        font-size: 6.25rem;
+    }
+    .article .headingbox h4 {
+        font-size: 35px;
+        transform: translate(1px, -90px);
+    }
+    .dontmiss  .headingbox h1 {
+        font-size: 5.25rem;
+    }
+    
+    .Question .headingbox h4 {
+        font-size: 35px;
+        left: 14%;
+        right: 14%;
+
+    }
+    .dontmiss .headingbox {
+        margin-bottom: -28px;
+    }
+
+
+
+
+
+    .blogbox {
+        margin-top: 25px;
+    }
+
+    
+
+
+    /* collection page 2nd 768px css */
+
+    .photo .et {
+        font-size: 14px;
+    }
+    .photo h4 {
+        font-size: 14px;
+    }
+
+
+
+
+    /* contact page 3rd 768px css */
+    .dontmiss .headingbox h1 {
+        font-size: 5.25rem;
+        top: -81px;
+    }
+    .contact .headingbox h1 {
+        font-size: 5.25rem; 
+    }
+    .contact .headingbox h4 { 
+        transform: translate(1px, -80px); 
+    }
+    .joinn { 
+        padding: 50px 0; 
+    }
+    .img1 {
+        left: 23%;
+    }
+    .img2 {
+        left: 45%;
+    }
+/* @mint page 4rth 768px css */
+
+    .count {
+        font-size: 1.3rem;
+    }
+    .textbx  h2 {
+        font-size: 25px;
+    }
+    .eth {
+        color: #fff;
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .col-sm-4 {
+        display: flex;
+        margin-left: 16px;
+    }
+    .quan {
+        display: flex;
+        margin-top: -10px;
+    }
+    .d-grid {
+        margin-top: 25px;
+    }
+}
+
+
+
+
+/* for mobile 360px */
+@media screen and (max-width : 767px) {
+    .hero .txtbox h1 {
+        font-size: 2.5rem;
+    }
+    .discrdicon {
+        padding: 5px 48px;
+    }
+    ul {
+        padding-left: 1rem;
+    }
+    .our .headingbox h1 {
+        font-size: 3.25rem;
+    }
+    .our .textbox h2 {
+        font-size: 28px;
+    }
+    .showcase .headingbox h1 {
+        font-size: 3.25rem;
+    }
+    .leadership .headingbox h1 {
+        font-size: 3.25rem;
+    }
+    .Question  .headingbox h1 {
+        font-size: 3.25rem;
+    }
+    .article  .headingbox h1 {
+        font-size: 3.25rem;
+    }
+    .dontmiss  .headingbox h1 {
+        font-size: 3.25rem;
+        top: -50px;
+        left: 6%;
+        right: 6%;
+
+    }
+    .our .headingbox h4 {
+        font-size: 28px;
+        transform: translate(1px, -55px);
+    }
+    .showcase .headingbox h4 {
+        font-size: 27px;
+        left: 15%;
+        right: 15%;
+        transform: translate(0px, -56px);
+
+    }
+    .leadership .headingbox h4 {
+        font-size: 27px;
+        left: 15%;
+        right: 15%;
+        transform: translate(0px, -56px);
+
+    }
+    .Question .headingbox h4 {
+        font-size: 27px;
+        left: 6%;
+        right: 6%;
+        transform: translate(0px, -67px);
+    }
+    .article .headingbox h4 {
+        font-size: 27px;
+        left: 15%;
+        right: 15%;
+        transform: translate(0px, -56px);
+    }
+    .img1 {
+        width: 240px;
+        transform: translate(-6px, 18px) rotate(-15deg);
+        left: 9%;
+    }
+    .img2 {
+        transform: translate(0px, -4px) rotate(15deg);
+        width: 150px;
+
+    }
+    .img2 {
+        left: 50%;
+    }
+    .join .joinbox h3 {
+        font-size: 1.75rem;
+    }
+    .dontmiss .headingbox {
+        margin-bottom: -21px;
+    }
+    .slidebox img {
+        width: 40%;
+    }
+
+    /* collection page 2nd 360px css */
+
+    .collection .headingbox h1 {
+        font-size: 4.25rem;
+    }
+    .collection .headingbox h4 {
+        font-size: 28px;
+        left: 24%;
+        right: 24%;
+        transform: translate(1px, -65px);
+    }
+
+    /* contact page 3rd 360px css */
+    .contact .headingbox h1 {
+        font-size: 3.25rem;
+    }
+    .contact .headingbox h4 { 
+        left: 15%;
+        right: 15%; 
+        transform: translate(1px, -60px);
+
+    } 
+    .joinn .joinbox h3 {
+        font-size: 1.75rem; 
+    }
+
+
+
+
+/* @mint page 4rth css */
+
+.count {
+    font-size: 20px;
+}
+.col-sm-4 {
+    margin-left: -14rem;
+}
+
+}
